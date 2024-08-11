@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo " "
-echo "Wellcome to Build LICH ROM"
+echo "Wellcome to Decompile"
 echo " "
 echo "Preparing directories"
 echo " "
